@@ -78,12 +78,9 @@ Main Functions
 
 ## Team members :
 ◻️ *Jad Dawani* 
-
-◻️ *Hani khmais*
-
-◻️ *Fatima heh*
-
 ◻️ *Fatima harahsheh*
+◻️ *Hani khmais*
+◻️ *Fatima heh*
 
 
 ## Contact us on :
